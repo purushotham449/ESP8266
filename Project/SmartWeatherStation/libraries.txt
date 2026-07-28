@@ -1,0 +1,6 @@
+ESP8266 Boards
+PubSubClient
+Adafruit BMP280
+Adafruit Unified Sensor
+Adafruit GFX
+Adafruit SSD1306

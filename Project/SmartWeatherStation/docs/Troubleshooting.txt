@@ -1,0 +1,1 @@
+Check I2C addresses, WiFi credentials and MQTT host.

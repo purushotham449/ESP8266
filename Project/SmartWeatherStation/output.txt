@@ -1,0 +1,67 @@
+23:23:17.022 -> [Setup] Initializing BMP280 sensor at address 0x76
+23:23:58.764 -> [Setup] BMP280 initialized successfully
+23:23:58.764 -> 
+23:23:58.764 -> [WiFi] Starting connection
+23:23:58.764 -> Connecting to WiFi 'B-220_2.4Ghz'[OLED] Connecting WiFi - B-220_2.4Ghz
+23:23:58.897 -> .......
+23:24:03.142 -> [WiFi] Connected, IP: 192.168.1.18
+23:24:03.142 -> [WiFi] Signal strength RSSI: -52 dBm
+23:24:03.142 -> [OLED] WiFi connected - 192.168.1.18
+23:24:03.142 -> [Setup] MQTT server configured
+23:24:03.142 -> [Setup] Entering main loop
+23:24:03.176 -> [MQTT] Disconnected
+23:24:03.176 -> 
+23:24:03.176 -> [MQTT] Connecting to 8ff66edb6259450d8d29c1e80d066941.s1.eu.hivemq.cloud:8883
+23:24:03.176 -> [OLED] Connecting MQTT - 8ff66edb6259450d8d29c1e80d066941.s1.eu.hivemq.cloud
+23:24:04.998 -> [MQTT] Connected
+23:24:04.998 -> [MQTT] Publishing topic: home/weather/bmp280
+23:24:04.998 -> [OLED] MQTT connected - home/weather/bmp280
+23:24:05.031 -> 
+23:24:05.031 -> [Sensor] New BMP280 reading
+23:24:05.031 -> [Sensor] Temperature: 28.9 C
+23:24:05.064 -> [Sensor] Pressure: 910.3 hPa
+23:24:05.064 -> [Sensor] Altitude: 894.3 m
+23:24:05.064 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.3}
+23:24:05.296 -> [MQTT] Publish successful
+23:24:05.296 -> [Loop] Waiting 5 seconds before next reading
+23:24:10.271 -> 
+23:24:10.271 -> [Sensor] New BMP280 reading
+23:24:10.305 -> [Sensor] Temperature: 28.9 C
+23:24:10.305 -> [Sensor] Pressure: 910.3 hPa
+23:24:10.305 -> [Sensor] Altitude: 894.6 m
+23:24:10.305 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.6}
+23:24:10.471 -> [MQTT] Publish successful
+23:24:10.471 -> [Loop] Waiting 5 seconds before next reading
+23:24:15.475 -> 
+23:24:15.475 -> [Sensor] New BMP280 reading
+23:24:15.475 -> [Sensor] Temperature: 28.9 C
+23:24:15.508 -> [Sensor] Pressure: 910.3 hPa
+23:24:15.508 -> [Sensor] Altitude: 894.6 m
+23:24:15.508 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.6}
+23:24:15.674 -> [MQTT] Publish successful
+23:24:15.674 -> [Loop] Waiting 5 seconds before next reading
+23:24:20.845 -> 
+23:24:20.845 -> [Sensor] New BMP280 reading
+23:24:20.878 -> [Sensor] Temperature: 28.9 C
+23:24:20.878 -> [Sensor] Pressure: 910.3 hPa
+23:24:20.878 -> [Sensor] Altitude: 894.5 m
+23:24:20.878 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.5}
+23:24:21.110 -> [MQTT] Publish successful
+23:24:21.110 -> [Loop] Waiting 5 seconds before next reading
+23:24:26.118 -> 
+23:24:26.118 -> [Sensor] New BMP280 reading
+23:24:26.118 -> [Sensor] Temperature: 28.9 C
+23:24:26.118 -> [Sensor] Pressure: 910.3 hPa
+23:24:26.118 -> [Sensor] Altitude: 894.6 m
+23:24:26.151 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.6}
+23:24:26.317 -> [MQTT] Publish successful
+23:24:26.317 -> [Loop] Waiting 5 seconds before next reading
+23:24:31.324 -> 
+23:24:31.324 -> [Sensor] New BMP280 reading
+23:24:31.324 -> [Sensor] Temperature: 28.9 C
+23:24:31.324 -> [Sensor] Pressure: 910.3 hPa
+23:24:31.324 -> [Sensor] Altitude: 894.9 m
+23:24:31.357 -> [MQTT] Publishing to home/weather/bmp280: {"temperature":28.9,"pressure":910.3,"altitude":894.9}
+23:24:31.523 -> [MQTT] Publish successful
+23:24:31.523 -> [Loop] Waiting 5 seconds before next reading
+23:24:36.694 -> 

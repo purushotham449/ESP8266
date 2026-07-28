@@ -1,0 +1,1 @@
+Replace YOUR_HOST, YOUR_USER, YOUR_PASS with HiveMQ Cloud credentials.
