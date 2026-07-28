@@ -1,0 +1,33 @@
+20:53:55.830 -> WiFi connected, IP address: 192.168.1.18
+20:53:55.830 -> MQTT broker set to: 8ff66edb6259450d8d29c1e80d066941.s1.eu.hivemq.cloud:8883
+20:53:55.830 -> Sensor readings:
+20:53:55.830 ->   Temperature: 29.13 C
+20:53:55.830 ->   Pressure: 909.61 hPa
+20:53:55.830 ->   Altitude: 901.01 m
+20:53:55.830 -> Publishing payload to home/sensors/bmp280: {"temperature":29.13,"pressure":909.6075,"altitude":901.0051}
+20:53:55.863 -> Attempting MQTT connection...connected
+20:53:57.798 -> Publish successful
+20:54:02.687 -> Sensor readings:
+20:54:02.687 ->   Temperature: 29.14 C
+20:54:02.687 ->   Pressure: 909.62 hPa
+20:54:02.687 ->   Altitude: 900.87 m
+20:54:02.687 -> Publishing payload to home/sensors/bmp280: {"temperature":29.14,"pressure":909.6227,"altitude":900.8668}
+20:54:02.819 -> Publish successful
+20:54:07.854 -> Sensor readings:
+20:54:07.854 ->   Temperature: 29.15 C
+20:54:07.854 ->   Pressure: 909.61 hPa
+20:54:07.854 ->   Altitude: 900.94 m
+20:54:07.854 -> Publishing payload to home/sensors/bmp280: {"temperature":29.15,"pressure":909.6147,"altitude":900.9392}
+20:54:08.020 -> Publish successful
+20:54:13.026 -> Sensor readings:
+20:54:13.026 ->   Temperature: 29.14 C
+20:54:13.026 ->   Pressure: 909.61 hPa
+20:54:13.026 ->   Altitude: 900.94 m
+20:54:13.026 -> Publishing payload to home/sensors/bmp280: {"temperature":29.14,"pressure":909.6146,"altitude":900.9398}
+20:54:13.457 -> Publish successful
+20:54:18.464 -> Sensor readings:
+20:54:18.464 ->   Temperature: 29.15 C
+20:54:18.464 ->   Pressure: 909.60 hPa
+20:54:18.464 ->   Altitude: 901.05 m
+20:54:18.464 -> Publishing payload to home/sensors/bmp280: {"temperature":29.15,"pressure":909.6028,"altitude":901.0473}
+20:54:18.630 -> Publish successful
