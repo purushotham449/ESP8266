@@ -7,8 +7,8 @@ WiFiClientSecure espClient;
 PubSubClient client(espClient);
 
 // WiFi network credentials.
-const char* ssid = "B-220_2.4Ghz";
-const char* password = "SuhaasPooja@1929";
+const char* ssid = "xxxx";
+const char* password = "123456789";
 
 // MQTT broker settings.
 const char* mqtt_server = "8ff66edb6259450d8d29c1e80d066941.s1.eu.hivemq.cloud";
